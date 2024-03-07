@@ -1,10 +1,10 @@
-# Student Space | PHP - CRUD Application
+# Student Space | PHP - CRUD Application (OOP)
+
+![Alt Text](Screenshot.png)
 
 ## Description
 
-A brief description of the project.
-
-This project is a university assignment aimed at practicing PHP with CRUD operations. It provides a PHP-based CRUD application for managing student information list. The application allows users to perform Create, Read, Update, and Delete operations on students.
+This project is a university assignment aimed at practicing PHP with CRUD operations. It provides a PHP-based CRUD (Create, Read, Update, Delete) application using OOP (Object Oriented Programming) for managing student information list. The application allows users to perform Create, Read, Update, and Delete students.
 
 ## Installation
 
